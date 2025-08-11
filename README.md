@@ -1,7 +1,5 @@
 # Laptop-code-animation
 
----
-
 # 🎯 Operation Silent Strike – COD-Style Mission Terminal 💻
 
 ## Tech Stack

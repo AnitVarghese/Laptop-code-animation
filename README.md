@@ -1,4 +1,4 @@
-# Laptop-code-animation
+-*# Laptop-code-animation
 
 
 
@@ -29,7 +29,7 @@
 
 https://github.com/user-attachments/assets/8946722a-7d1c-40a7-a3dd-0fb7bebba019
 
-PS: I had to use JS just for the switch, cz commmon... i gotta switch on my laptop yeah? and this was fun.
+PS: I had to use JS just for the switch, cz commmon..i gotta switch on my laptop yeah? and this was fun.
 
 
 

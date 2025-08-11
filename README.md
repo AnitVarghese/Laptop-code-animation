@@ -29,6 +29,10 @@
 
 PS: I had to use JS just for the switch, cz commmon... i gotta switch on my laptop yeah?
 
+https://github.com/user-attachments/assets/bf82d3f0-6ab9-4f07-8946-b1c639272d4d
+
+
+
 
 
 

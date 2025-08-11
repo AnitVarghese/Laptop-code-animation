@@ -27,7 +27,11 @@
 ✨ **Key glow on activation** to mimic real hardware lighting  
 ⏳ **Power switch transition** between on/off states  
 
-I had to use JS just for the switch, cz commmon... i gotta switch on my laptop yeah?
+PS: I had to use JS just for the switch, cz commmon... i gotta switch on my laptop yeah?
+
+
+
+
 
 
 

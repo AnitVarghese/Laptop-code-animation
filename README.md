@@ -1,17 +1,15 @@
 # Laptop-code-animation
----
+
 
 
 # 🎯 Operation Silent Strike – COD-Style Mission Terminal 💻
 
----
 
 ## Tech Stack
 - **HTML** – Structure  
 - **CSS** – Styling, animations, and keyboard glow effects  
 - **JavaScript** – Typewriter logic, auto-scroll, and power controls  
 
----
 
 ## Features
 💻 **Realistic typewriter effect** for mission logs  
@@ -22,7 +20,6 @@
 ⏹ **Automatic shutdown** when the mission completes  
 ⚡ **Customizable speed & text** in `script.js`  
 
----
 
 ## CSS Animations Include 
 📜 **Smooth terminal auto-scroll** with padding for readability  
